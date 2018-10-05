@@ -1,4 +1,11 @@
 {
   "name": "EE",
-  "displayName": "EE"
+  "displayName": "EE",
+  "expo": {
+    "sdkVersion": "30.0.1",
+    "name": "EE",
+    "slug": "ee",
+    "version": "0.0.1",
+    "description": ""
+  }
 }
