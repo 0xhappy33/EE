@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.1.2",
+    "@expo/vector-icons": "^8.0.0",
     "axios": "^0.18.0",
+    "expo": "^30.0.1",
     "firebase": "^5.5.2",
     "moment": "^2.22.2",
     "react": "16.5.0",
